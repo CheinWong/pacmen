@@ -9,3 +9,6 @@ This is a simple pacmen game that allows you to create unlimited pacman and let 
 1. Create a maze for Pacman.
 2. Allow Pacman to move in the maze.
 3. Introduce ghost in the maze for Pacman to chase after.
+
+# License
+https://github.com/CheinWong/pacmen/blob/main/LICENSE
