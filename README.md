@@ -1,4 +1,4 @@
-# pacmen
+# Pacmen Game!
 This is a simple pacmen game. It allows you to create unlimited pacman and let them move freely within your computer screen!
 
 # How to play
